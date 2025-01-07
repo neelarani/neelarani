@@ -8,11 +8,6 @@ Welcome to my GitHub profile! 😊
 - 💬 Ask me about **JavaScript, React, and Frontend Development**  
 - 📫 How to reach me: [neela9624@gmail.com](neela9624@gmail.com)  
 
-### 🛠️ Skills & Tools  
-- **Languages**: JavaScript, HTML, CSS  
-- **Libraries & Frameworks**: React.js, Tailwind CSS  
-- **Tools**: Git, GitHub, VS Code  
-
 ---
 
 ### ⚡ Fun Fact  
