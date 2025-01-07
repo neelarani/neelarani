@@ -1,17 +1,24 @@
-## Hi there 👋
+## Hi there 👋, I'm Neela!  
 
-<!--
-**neelarani/neelarani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! 😊  
 
-Here are some ideas to get you started:
+### 🚀 About Me  
+- 🔭 I’m currently working on **React.js Projects**  
+- 🌱 I’m currently learning **React.js and Web Development**  
+- 💬 Ask me about **JavaScript, React, and Frontend Development**  
+- 📫 How to reach me: [https://www.linkedin.com/in/neela-rani/](https://www.linkedin.com/in/neela-rani/)  
 
-- 🔭 I’m currently working on ...Javascript
+### 🛠️ Skills & Tools  
+- **Languages**: JavaScript, HTML, CSS  
+- **Libraries & Frameworks**: React.js, Tailwind CSS  
+- **Tools**: Git, GitHub, VS Code  
 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### ⚡ Fun Fact  
+I love solving coding challenges and exploring new technologies! 🚀
+
+---
+
+### 🌟 Let's Connect!  
+Feel free to explore my repositories and connect with me for any collaboration or just to say hi! 😊
