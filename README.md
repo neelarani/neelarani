@@ -1,7 +1,7 @@
 ## Hi there 👋, I'm Neela!  
 
 Welcome to my GitHub profile! 😊  
-
+<hr style="border: 0.5px solid #ccc;" />
 ### 🚀 About Me  
 - 🔭 I’m currently working on **React.js Projects**  
 - 🌱 I’m currently learning **React.js and Web Development**  
