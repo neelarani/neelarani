@@ -13,12 +13,12 @@ Welcome to my GitHub profile! 😊
 - **Libraries & Frameworks**: React.js, Tailwind CSS  
 - **Tools**: Git, GitHub, VS Code  
 
----
+--
 
 ### ⚡ Fun Fact  
 I love solving coding challenges and exploring new technologies! 🚀
 
----
+--
 
 ### 🌟 Let's Connect!  
 Feel free to explore my repositories and connect with me for any collaboration or just to say hi! 😊
