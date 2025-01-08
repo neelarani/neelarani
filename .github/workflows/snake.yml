@@ -1,16 +1,23 @@
 name: Generate Snake Animation
 
 on:
-  push:
-    branches:
-      - main
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
 
 jobs:
-  generate:
+  build:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: actions/checkout@v2
-      - uses: Platane/snk@v2
+      - uses: actions/checkout@v3
+      - name: Generate Snake Animation
+        uses: Platane/snk@v2
+        with:
+          github_user_name: neelarani
+          outputs: dist/snake.svg
+      - name: Push to GitHub
+        uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          output: dist/snake.svg
+          publish_dir: dist
