@@ -69,5 +69,5 @@ I love solving coding challenges and exploring new technologies! 🚀
 
 ![Neela's Contribution Graph](https://github-readme-streak-stats.herokuapp.com/?user=neelarani&theme=radical)
 
+![Snake animation](https://neelarani.github.io/neelarani/snake.svg)
 
-![Snake animation](https://github.com/neelarani/neelarani/blob/output/github-contribution-grid-snake.svg)
