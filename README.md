@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://your-banner-image-url.com" alt="GitHub Profile Banner" />
+  <img src="https://github.com/neelarani/neelarani/blob/main/Black%20and%20Red%20Edgy%20Gaming%20Youtube%20Banner.png" alt="GitHub Profile Banner" />
 </p>
 
 
