@@ -63,7 +63,7 @@ I love solving coding challenges and exploring new technologies! 🚀
   </a> 
 </p>
 
-![Neela's GitHub activity graph](https://github-contributions-api.deno.dev/username/neelarani?theme=radical)
+![Neela's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=neelarani&theme=radical)
 
 ![Neela's GitHub Stats](https://github-readme-stats.vercel.app/api?username=neelarani&show_icons=true&theme=radical)
 
