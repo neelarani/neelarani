@@ -1,4 +1,11 @@
+
+<p align="center">
+  <img src="https://your-banner-image-url.com" alt="GitHub Profile Banner" />
+</p>
+
+
 ## Hi there 👋, I'm Neela!  
+
 
 Welcome to my GitHub profile! 😊  
 
