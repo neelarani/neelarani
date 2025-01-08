@@ -67,7 +67,7 @@ I love solving coding challenges and exploring new technologies! 🚀
 
 ![Neela's GitHub Stats](https://github-readme-stats.vercel.app/api?username=neelarani&show_icons=true&theme=radical)
 
-![Neela's Contribution Graph](https://github-readme-streak-stats.herokuapp.com/?user=neelarani&theme=radical)
 
-![Snake animation](https://neelarani.github.io/neelarani/snake.svg)
+
+
 
