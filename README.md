@@ -13,7 +13,7 @@ Welcome to my GitHub profile! 😊
 - 🔭 I’m currently working on **React.js Projects**  
 - 🌱 I’m currently learning **React.js and Web Development**  
 - 💬 Ask me about **JavaScript, React, and Frontend Development**  
-- 📫 How to reach me: [neela9624@gmail.com](neela9624@gmail.com)  
+- 📫 How to reach me: [neelarany@gmail.com](neelarany@gmail.com)  
 
 ---
 
