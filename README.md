@@ -63,9 +63,12 @@ I love solving coding challenges and exploring new technologies! 🚀
   </a> 
 </p>
 
+
+
+![lilarani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lilarani&theme=react&show_icons=true&hide_border=true&count_private=true)
+
 ![Neela's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=neelarani&theme=radical)
 
-![https://github.com/lilarani's Stats](https://github-readme-stats.vercel.app/api?username=https://github.com/lilarani&theme=react&show_icons=true&hide_border=true&count_private=true)
 
 
 
