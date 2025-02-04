@@ -4,7 +4,7 @@
 </p>
 
 
-## Hi there 👋, I'm Neela!  
+## Hi there 👋, I'm Lila!  
 
 
 Welcome to my GitHub profile! 😊  
@@ -13,7 +13,7 @@ Welcome to my GitHub profile! 😊
 - 🔭 I’m currently working on **React.js Projects**  
 - 🌱 I’m currently learning **React.js and Web Development**  
 - 💬 Ask me about **JavaScript, React, and Frontend Development**  
-- 📫 How to reach me: [neelarany@gmail.com](neelarany@gmail.com)  
+- 📫 How to reach me: [lilaranyy@gmail.com](lilaranyy@gmail.com)  
 
 ---
 
