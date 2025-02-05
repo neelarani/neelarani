@@ -74,7 +74,6 @@ I love solving coding challenges and exploring new technologies! 🚀
 </p>
 
 
-![lilarani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lilarani&theme=react&show_icons=true&hide_border=true&count_private=true)
 
 ![lilarani's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lilarani&theme=radical)
 
