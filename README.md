@@ -10,8 +10,9 @@
 Welcome to my GitHub profile! 😊  
 
 ### 🚀 About Me  
-- 🔭 I’m currently working on **React.js Projects**  
-- 🌱 I’m currently learning **React.js and Web Development**  
+I’m Lila, a passionate frontend developer currently focused on React.js and modern web technologies. I love building interactive user interfaces and improving my coding skills. Always eager to learn and explore new frameworks.
+- 🔭 Exploring Next.js for better performance optimization**  
+- 🌱 Learning advanced JavaScript concepts**  
 - 💬 Ask me about **JavaScript, React, and Frontend Development**  
 - 📫 How to reach me: [lilaranyy@gmail.com](lilaranyy@gmail.com)  
 
