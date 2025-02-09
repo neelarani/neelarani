@@ -15,7 +15,7 @@ I’m Lila, a passionate frontend developer currently focused on React.js and mo
 - 🌱 Learning advanced JavaScript concepts**  
 - 💬 Ask me about **JavaScript, React, and Frontend Development**  
 - 📫 How to reach me: [lilaranyy@gmail.com](lilaranyy@gmail.com)
-- 📞 01938759588
+
 
 ---
 
