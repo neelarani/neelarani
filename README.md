@@ -28,7 +28,7 @@ I love solving coding challenges and exploring new technologies! 🚀
   <a href="https://www.linkedin.com/in/neelarani" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://www.facebook.com/neelaranii" target="_blank">
+  <a href="https://www.facebook.com/neelarani.1" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
   </a>
 </p>
