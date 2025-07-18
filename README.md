@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://github.com/neelarani/neelarani/blob/main/banner.png" alt="GitHub Profile Banner" />
+<!--   <img src="https://github.com/neelarani/neelarani/blob/main/banner.png" alt="GitHub Profile Banner" /> -->
 </p>
 
 
