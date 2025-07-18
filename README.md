@@ -4,17 +4,17 @@
 </p>
 
 
-## Hi there 👋, I'm Lila!  
+## Hi there 👋, I'm Neela!  
 
 
 Welcome to my GitHub profile! 😊  
 
 ### 🚀 About Me  
-I’m Lila, a passionate frontend developer currently focused on React.js and modern web technologies. I love building interactive user interfaces and improving my coding skills. Always eager to learn and explore new frameworks.
+I’m Neela, a passionate frontend developer currently focused on React.js and modern web technologies. I love building interactive user interfaces and improving my coding skills. Always eager to learn and explore new frameworks.
 - 🔭 Exploring Next.js for better performance optimization**  
 - 🌱 Learning advanced JavaScript concepts 
 - 💬 Ask me about JavaScript, React, and Frontend Development
-- 📫 How to reach me: [lilaranyy@gmail.com](lilaranyy@gmail.com)
+- 📫 How to reach me: [neelarany@gmail.com](neelarany@gmail.com)
 
 
 ---
@@ -25,10 +25,10 @@ I love solving coding challenges and exploring new technologies! 🚀
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/lilarani" target="_blank">
+  <a href="https://www.linkedin.com/in/neelarani" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://www.facebook.com/lilaranii" target="_blank">
+  <a href="https://www.facebook.com/neelaranii" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
   </a>
 </p>
@@ -98,7 +98,7 @@ I love solving coding challenges and exploring new technologies! 🚀
 
 
 
-![lilarani's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lilarani&theme=radical)
+![neelarani's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lilarani&theme=radical)
 
 
 
