@@ -19,14 +19,15 @@
   <tr>
     <td width="50%">
   <h3>🧕 About Me</h3>
-  <p>
-    Hi, I’m <strong>Neela Rani</strong>, a passionate frontend developer currently focused on React.js and modern web technologies.  
-    I love building interactive user interfaces and improving my coding skills. Always eager to learn and explore new frameworks.
-  </p>
+<p>
+    Hi, I’m <strong>Neela Rani</strong>, a passionate Full-Stack Developer.  
+    I love building interactive user interfaces and improving my coding skills.  
+    Always eager to learn and explore new technologies.
+</p>
+
   <ul>
-    <li>🔭 Exploring Next.js for better performance optimization</li>
-    <li>🌱 Learning advanced JavaScript concepts</li>
-    <li>💬 Ask me about JavaScript, React, and Frontend Development</li>
+    <li>🔭 Passionate about creating interactive web experiences</li>
+    <li>🌱 Always eager to improve my coding skills</li>
     <li>📫 How to reach me: <a href="mailto:neelarany@gmail.com">neelarany@gmail.com</a></li>
   </ul>
 </td>
