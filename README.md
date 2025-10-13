@@ -66,7 +66,6 @@
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
 </p>
 
 ### 🧩 Backend & Database
@@ -111,7 +110,7 @@
 
 ## 📫 Let’s Connect
 
-- 📍 **Location:** Sylhet, Bangladesh
+- 📍 **Location:** Dinajpur, Bangladesh
 - 📧 **Email:** [neelarany@gmail.com](mailto:neelarany@gmail.com)
 - 💼 **LinkedIn:**
   [linkedin.com/in/neelarani](https://www.linkedin.com/in/neelarani)
