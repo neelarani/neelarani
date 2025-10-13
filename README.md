@@ -1,5 +1,6 @@
 <p align="center">
-    <img src="https://github.com/neelarani/neelarani/blob/main/banner.png" alt="GitHub Profile Banner" />
+    <!-- <img src="https://github.com/neelarani/neelarani/blob/main/banner.png" alt="GitHub Profile Banner" /> -->
+    <img src="https://i.ibb.co.com/ycMqzFT4/Untitled-design.png" alt="GitHub Profile Banner" />
 </p>
 
 <h1 align="center">👋 Hi, I'm Neela Rani</h1>
