@@ -1,6 +1,6 @@
 <p align="center">
-    <!-- <img src="https://github.com/neelarani/neelarani/blob/main/banner.png" alt="GitHub Profile Banner" /> -->
-    <img src="https://i.ibb.co.com/ycMqzFT4/Untitled-design.png" alt="GitHub Profile Banner" />
+    <img src="https://github.com/neelarani/neelarani/blob/main/banner2.png" alt="GitHub Profile Banner" />
+   
 </p>
 
 <h1 align="center">👋 Hi, I'm Neela Rani</h1>
@@ -81,7 +81,6 @@
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
 </p>
-
 
 ### 🔧 Tools & Platforms
 
