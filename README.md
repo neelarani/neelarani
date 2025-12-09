@@ -95,7 +95,8 @@
 ---
 
 ## 📊 GitHub Stats
-https://raw.githubusercontent.com/github/explore/main/topics/react/react.png
+![Neela's Stats](https://github-readme-stats.vercel.app/api?username=neelarani)
+
 
 
 <br/>
