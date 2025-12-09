@@ -95,12 +95,7 @@
 ---
 
 ## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=neelarani&show_icons=true&theme=tokyonight" height="180px"/>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=neelarani&layout=compact&theme=radical" height="180px"/>
-</p>
-
+https://raw.githubusercontent.com/github/explore/main/topics/react/react.png
 
 
 <br/>
