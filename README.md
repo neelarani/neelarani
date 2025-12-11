@@ -96,10 +96,10 @@
 
 ## 📊 GitHub Stats
 <div align="left" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;"> 
- <!-- <img src="https://github-readme-stats-five-coral-81.vercel.app/api?username=neelarani&show_icons=true&theme=tokyonight" height="180px"/> -->
-  <!-- <img src="https://github-readme-stats-five-coral-81.vercel.app/api/top-langs/?username=neelarani&layout=compact&theme=radical" height="180px"/> -->
-    <img src="https://github-readme-stats-five-coral-81.vercel.app/api?username=neelarani&show_icons=true&theme=tokyonight&count_private=true&token=PAT_1" height="180px"/>
-  <img src="https://github-readme-stats-five-coral-81.vercel.app/api/top-langs/?username=neelarani&layout=compact&theme=radical&count_private=true&token=PAT_1" height="180px"/>
+ <img src="https://github-readme-stats-five-coral-81.vercel.app/api?username=neelarani&show_icons=true&theme=tokyonight" height="180px"/> -->
+ <img src="https://github-readme-stats-five-coral-81.vercel.app/api/top-langs/?username=neelarani&layout=compact&theme=radical" height="180px"/>
+    <!-- <img src="https://github-readme-stats-five-coral-81.vercel.app/api?username=neelarani&show_icons=true&theme=tokyonight&count_private=true&token=PAT_1" height="180px"/>
+  <img src="https://github-readme-stats-five-coral-81.vercel.app/api/top-langs/?username=neelarani&layout=compact&theme=radical&count_private=true&token=PAT_1" height="180px"/> -->
 </div>
 
 
@@ -107,8 +107,8 @@
 <br/>
 
 <div align="left">
-  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=neelarani&theme=tokyonight" height="200px"/> -->
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=neelarani&theme=tokyonight&token=PAT_1" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=neelarani&theme=tokyonight" height="200px"/>
+    <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=neelarani&theme=tokyonight&token=PAT_1" height="180px"/> -->
 
 </div>
 
