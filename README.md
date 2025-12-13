@@ -107,7 +107,8 @@
 
 <div align="left">
   <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=neelarani&theme=tokyonight" height="200px"/> -->
-  <img src="https://streak-stats.demolab.com?user=neelarani&theme=tokyonight" height="200px"/>
+![GitHub Streak](https://streak-stats.demolab.com?user=neelarani&theme=tokyonight)
+
 
 
 
