@@ -44,7 +44,7 @@
 
 ## 🚀 What I’m Currently Doing
 
-- 🔭 Working on a **NA Programming Project** using **MERN**
+- 🔭 Working on a **Rani Health Care Project** 
 
 ---
 
