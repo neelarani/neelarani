@@ -102,10 +102,9 @@
 </div> -->
 
  <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arman-miaa&show_icons=true&locale=en" alt="arman-miaa" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arman-miaa&show_icons=true&locale=en&layout=compact" alt="top-langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=neelarani&show_icons=true&locale=en" alt="neelarani" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neelarani&show_icons=true&locale=en&layout=compact" alt="top-langs" />
 </p>
-
 
 
 <br/>
