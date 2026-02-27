@@ -95,16 +95,12 @@
 ---
 
 ## 📊 GitHub Stats
-<!-- <div align="left" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;"> 
+<div align="left" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;"> 
  <img src="https://github-readme-stats-five-coral-81.vercel.app/api?username=neelarani&show_icons=true&theme=tokyonight" height="180px"/> 
  <img src="https://github-readme-stats-five-coral-81.vercel.app/api/top-langs/?username=neelarani&layout=compact&theme=radical" height="180px"/>
 
-</div> -->
+</div> 
 
- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=neelarani&show_icons=true&locale=en" alt="neelarani" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neelarani&show_icons=true&locale=en&layout=compact" alt="top-langs" />
-</p>
 
 
 <br/>
