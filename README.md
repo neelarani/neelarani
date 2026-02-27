@@ -7,7 +7,7 @@
 
 <p align="center">
   💻 Junior Web Developer | Full-Stack Developer <br/> 
-  📍 Dinajpur, Bangladesh 
+  📍 Dhaka, Bangladesh 
 </p>
 
 <p align="center">
@@ -117,7 +117,7 @@
 
 ## 📫 Let’s Connect
 
-- 📍 **Location:** Dinajpur, Bangladesh
+- 📍 **Location:** Dhaka, Bangladesh 
 - 📧 **Email:** [neelarany@gmail.com](mailto:neelarany@gmail.com)
 - 💼 **LinkedIn:**
   [linkedin.com/in/neelarani](https://www.linkedin.com/in/neelarani)
