@@ -14,7 +14,7 @@
   <img src="https://komarev.com/ghpvc/?username=neelarani&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
 </p>
 
----
+
 
 <table>
   <tr>
@@ -40,7 +40,6 @@
   </tr>
 </table>
 
----
 
 ## 🚀 What I’m Currently Doing
 
@@ -92,7 +91,7 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 </p>
 
----
+
 
 
 ## 📊 GitHub Stats
