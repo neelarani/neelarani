@@ -6,8 +6,8 @@
 <h1 align="center">👋 Hi, I'm Neela Rani</h1>
 
 <p align="center">
-  💻 Junior Web Developer | Full-Stack Developer <br/> 
-  📍 Dhaka, Bangladesh 
+  Web Developer | Full-Stack Developer <br/> 
+    Dhaka, Bangladesh 
 </p>
 
 <p align="center">
