@@ -96,23 +96,44 @@
 
 ## 📊 GitHub Stats
 
-<div align="">
+<!-- <div align="">
   <img src="https://github-readme-stats.vercel.app/api?username=neelarani&show_icons=true&theme=tokyonight&hide_border=true" alt="Neela's GitHub Stats" height="180px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neelarani&layout=compact&theme=radical&hide_border=true" alt="Neela's Top Languages" height="180px"/>
-</div>
+</div> -->
 
 
 
 <br/>
-
 <div align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=neelarani&theme=tokyonight" height="200px"/>
+
+<p align="center">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=neelarani&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=neelarani&theme=tokyonight" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=neelarani&theme=tokyonight&utcOffset=6" />
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=neelarani&theme=tokyonight" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=neelarani&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=neelarani&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=neelarani&theme=tokyonight&hide_border=true" />
+</p>
+
+<!-- <div align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=neelarani&theme=tokyonight" height="200px"/>
 
 
 
 
 
-</div>
+</div> -->
 
 
 ## 📫 Let’s Connect
