@@ -105,7 +105,7 @@
 
 <br/>
 <div align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=neelarani&theme=tokyonight" height="200px"/>
+  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=neelarani&theme=tokyonight" height="200px"/> -->
 
 <p align="center">
   <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=neelarani&theme=tokyonight" />
