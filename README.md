@@ -92,18 +92,6 @@
 </p>
 
 
-
-
-## 📊 GitHub Stats
-
-<!-- <div align="">
-  <img src="https://github-readme-stats.vercel.app/api?username=neelarani&show_icons=true&theme=tokyonight&hide_border=true" alt="Neela's GitHub Stats" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neelarani&layout=compact&theme=radical&hide_border=true" alt="Neela's Top Languages" height="180px"/>
-</div> -->
-
-
-
-<br/>
 <table>
   <tr>
     <td>
@@ -124,15 +112,6 @@
   </tr>
 </table>
 
-<!-- <div align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=neelarani&theme=tokyonight" height="200px"/>
-
-
-
-
-
-</div> -->
-
 
 ## 📫 Let’s Connect
 
@@ -140,4 +119,4 @@
 - 📧 **Email:** [neelarany@gmail.com](mailto:neelarany@gmail.com)
 - 💼 **LinkedIn:**
   [linkedin.com/in/neelarani](https://www.linkedin.com/in/neelarani)
-- 🖤 **GitHub:** [github.com/neelarani](https://github.com/neelarani)
+
