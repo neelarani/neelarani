@@ -45,8 +45,6 @@
 
 - 🔭 Working on a **Rani Health Care Project** 
 
----
-
 ## 🛠️ My Tech Stack
 
 ### 💻 Programming Languages
