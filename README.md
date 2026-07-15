@@ -113,7 +113,6 @@
 
 <p align="center">
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=neelarani&theme=tokyonight" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=neelarani&theme=tokyonight&utcOffset=6" />
 </p>
 
 <p align="center">
