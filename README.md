@@ -118,7 +118,6 @@
 
   <p>
     <img width="49%" height="220" src="https://github-readme-streak-stats.herokuapp.com?user=neelarani&theme=tokyonight&hide_border=true" />
-    <img width="49%" height="220" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=neelarani&theme=tokyonight" />
   </p>
 
 </div>
