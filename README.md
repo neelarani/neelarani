@@ -104,22 +104,24 @@
 
 
 <br/>
-<div align="left">
-  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=neelarani&theme=tokyonight" height="200px"/> -->
+<div align="center">
 
-<p align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=neelarani&theme=tokyonight" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=neelarani&theme=tokyonight" />
-</p>
+  <p>
+    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=neelarani&theme=tokyonight" />
+    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=neelarani&theme=tokyonight" />
+  </p>
 
-<p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=neelarani&theme=tokyonight" />
-</p>
+  <p>
+    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=neelarani&theme=tokyonight" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=neelarani&show_icons=true&theme=tokyonight&hide_border=true" />
+  </p>
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=neelarani&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=neelarani&theme=tokyonight&hide_border=true" />
-</p>
+  <p>
+    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=neelarani&theme=tokyonight&hide_border=true" />
+    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=neelarani&theme=tokyonight" />
+  </p>
+
+</div>
 
 <!-- <div align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=neelarani&theme=tokyonight" height="200px"/>
